@@ -14,8 +14,7 @@ This script demonstrates how to build a team of AI agents that work together as 
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/ai_agent_tutorials/ai_finance_agent_team
+git clone https://https://github.com/abhishekkumar62000/AI-Powered-Finance-Multi-Agents-Agno-App.git
 ```
 
 2. Install the required dependencies:
@@ -27,6 +26,7 @@ pip install -r requirements.txt
 3. Get your OpenAI API Key
 
 - Sign up for an [OpenAI account](https://platform.openai.com/) (or the LLM provider of your choice) and obtain your API key.
+- gemini
 - Set your OpenAI API key as an environment variable:
 ```bash
 export OPENAI_API_KEY='your-api-key-here'
