@@ -1,4 +1,4 @@
-openai
+openai  
 agno
 duckduckgo-search
 yfinance
