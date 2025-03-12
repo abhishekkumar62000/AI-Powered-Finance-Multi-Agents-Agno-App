@@ -1,0 +1,10 @@
+openai
+agno
+duckduckgo-search
+yfinance
+fastapi[standard] 
+sqlalchemy
+streamlit 
+openai
+python-dotenv
+logging
