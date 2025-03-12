@@ -7,4 +7,4 @@ sqlalchemy
 streamlit 
 openai
 python-dotenv
-logging
+logging  
